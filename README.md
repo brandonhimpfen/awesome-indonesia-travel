@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Indonesia, covering official tourism portals, inter-island transport, regional guides, national parks, and digital nomad resources.
 
+Indonesia is a vast tropical archipelago in Southeast Asia featuring ancient temple complexes, active volcanic ranges, diverse marine biodiversity, and unique island cultures. This list is intended for island explorers, scuba diving enthusiasts, cultural travelers, and tropical adventurers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
