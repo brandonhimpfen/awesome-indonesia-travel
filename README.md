@@ -50,6 +50,7 @@ Navigating domestic airlines, inter-island ferries, trains, and regional transpo
 
 ### Bali & Nusa Tenggara
 
+- [Bagus Bali](https://bagusbali.com) - Local Bali guide in 12 languages, with on-the-ground checks, area guides, a map and a trip planner.
 - [Bali Tourism Board (Dispar Bali)](https://disdar.baliprov.go.id/) - Official regional portal for cultural guidelines, visitor tax details, and temple etiquette.
 - [Mandalika Tourism Hub (Lombok)](https://kemenpar.go.id/en) - Official guide for exploring southern Lombok, coastal beaches, and the international circuit region.
 
